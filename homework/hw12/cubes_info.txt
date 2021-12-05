@@ -1,0 +1,5 @@
+10 blue wood
+15 yellow metal
+7 green paper
+43 red wood
+2 blue metal
